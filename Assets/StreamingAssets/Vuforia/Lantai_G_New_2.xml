@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="G_DiscussionRoom2" size="100.000000 98.097824" />
+    <ImageTarget name="G_DiscussionRoom1" size="100.000000 101.373627" />
+    <ImageTarget name="G08_SLSC" size="100.000000 93.979935" />
+    <ImageTarget name="G07_SADCBackOffice" size="100.000000 99.373039" />
+    <ImageTarget name="G06_HeadofProgramOffice" size="100.000000 95.442360" />
+    <ImageTarget name="G05_SADC" size="100.000000 99.035370" />
+    <ImageTarget name="G04_ExecutiveRoom" size="100.000000 96.089386" />
+    <ImageTarget name="G03_RegClass" size="100.000000 99.000000" />
+    <ImageTarget name="G02_RegClass" size="100.000000 101.388885" />
+    <ImageTarget name="G01_LKCLobby" size="100.000000 87.209305" />
+  </Tracking>
+</QCARConfig>

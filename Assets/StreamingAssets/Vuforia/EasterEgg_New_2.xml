@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Lobby" size="100.000000 83.829788" />
+    <ImageTarget name="Kantin" size="100.000000 83.829788" />
+    <ImageTarget name="EasterEgg_Kelas_Sewu" size="100.000000 83.833832" />
+    <ImageTarget name="HealingSpot_2" size="100.000000 83.829788" />
+    <ImageTarget name="HealingSpot" size="100.000000 83.829788" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="206_MultifunctionRoom" size="100.000000 97.297295" />
+    <ImageTarget name="205_MultifunctionRoom" size="100.000000 97.994270" />
+    <ImageTarget name="204_MultifunctionRoom" size="100.000000 97.134674" />
+    <ImageTarget name="203_MultifunctionRoom" size="100.000000 101.519760" />
+    <ImageTarget name="202_MultifunctionRoom" size="100.000000 92.911392" />
+    <ImageTarget name="201_MultifunctionRoom" size="100.000000 92.670158" />
+  </Tracking>
+</QCARConfig>

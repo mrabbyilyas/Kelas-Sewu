@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LG_ITSupportRoom" size="100.000000 98.992447" />
+    <ImageTarget name="LG_Storage" size="100.000000 101.396645" />
+    <ImageTarget name="LG_FirstAidRoom" size="100.000000 98.571426" />
+    <ImageTarget name="LG_FemaleWudhu" size="100.000000 99.410027" />
+    <ImageTarget name="LG_MaleWudhu" size="100.000000 99.706741" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LG10_HIS_Lab" size="100.000000 101.101318" />
+    <ImageTarget name="LG09_Drawing_Lab" size="100.000000 101.063828" />
+    <ImageTarget name="LG05_Creative_Class" size="100.000000 100.622406" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LG15_iMac_Lab" size="1.000000 0.750865" />
+    <ImageTarget name="LG13_Gallery" size="1.000000 0.750865" />
+    <ImageTarget name="LG12_Photography_Studio" size="1.000000 0.750865" />
+    <ImageTarget name="LG11_Physics_Lab_2" size="1.000000 0.750865" />
+    <ImageTarget name="LG11_Physics_Lab" size="1.000000 0.750865" />
+    <ImageTarget name="LG10_HIS_Lab" size="1.000000 0.750865" />
+    <ImageTarget name="LG09_Drawing_Lab" size="1.000000 0.750865" />
+    <ImageTarget name="LG08_Regular_Class_Room" size="1.000000 0.750865" />
+    <ImageTarget name="LG07_Regular_Class" size="1.000000 0.750865" />
+    <ImageTarget name="LG06_Conference_Room" size="1.000000 0.750865" />
+    <ImageTarget name="LG05_Creative_Class" size="1.000000 0.750865" />
+    <ImageTarget name="LG04_Creative_Class" size="1.000000 0.750865" />
+    <ImageTarget name="LG03_Computer_Lab" size="1.000000 0.750865" />
+    <ImageTarget name="LG02_Mulmed_Lab" size="1.000000 0.750865" />
+    <ImageTarget name="LG01_LKC" size="1.000000 0.750865" />
+    <ImageTarget name="IT_Support_Room" size="1.000000 0.750865" />
+    <ImageTarget name="Foodcourt_4" size="1.000000 0.750865" />
+    <ImageTarget name="Foodcourt_3" size="1.000000 0.750865" />
+    <ImageTarget name="Foodcourt_2" size="1.000000 0.750000" />
+    <ImageTarget name="Foodcourt" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
